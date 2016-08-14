@@ -9,3 +9,6 @@ distribute, sublicense, and/or sell copies of the Software, */
 /* The above copyright notice and this permission notice shall be       */
 /* included in all copies or substantial portions of the Software
 end of the rubbish
+
+Now I have another brilliant idea
+
